@@ -12,7 +12,7 @@ W tym tygodniu nauczysz się pisać programy, które będą tworzyć pliki z cza
 
 W dzisiejszym zadaniu zapoznasz się z PBM - prostym formatem zapisu obrazów. Dzisiaj nie będziesz jeszcze pisać kodu.
 
-*Portable BitMap* to prosty format zapisu czarno-białych obrazów. Obraz w tym formacie to plik tekstowy. W pierwszej linii pliku wpisujemy `P1`, co informuje program do wyświetlania obrazów o tym, że będziemy korzystać z PBM. W drugiej linii znajdują się dwie liczby oddzielone spacją: wysokość i szerokość obrazu. Pozostałe linie pliku składają się z oddzielonych spacjami zer i jedynek: 0 oznacza kolor czarny, a 1 biały.
+*Portable BitMap* to prosty format zapisu czarno-białych obrazów. Obraz w tym formacie to plik tekstowy. W pierwszej linii pliku wpisujemy `P1`, co informuje program do wyświetlania obrazów o tym, że będziemy korzystać z PBM. W drugiej linii znajdują się dwie liczby oddzielone spacją: wysokość i szerokość obrazu. Pozostałe linie pliku składają się z oddzielonych spacjami zer i jedynek: 0 oznacza kolor biały, a 1 czarny.
 
 Przykładowy obraz w PBM wygląda następująco:
 
