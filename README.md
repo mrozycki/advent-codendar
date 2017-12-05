@@ -8,7 +8,7 @@ przez prosty projekt -- generowanie animacji Game of Life.
 * [niedziela - obrazy PBM](1-niedziela.md)
 * [poniedziałek - Biały Kwadrat na Białym Tle](1-poniedzialek.md)
 * [wtorek - Płotno](1-wtorek.md)
-* [środa - Czarny Kwadrat na Białym Tle](1-czwartek.md)
+* [środa - Czarny Kwadrat na Białym Tle](1-sroda.md)
 * czwartek
 * piątek
 * sobota
