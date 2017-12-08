@@ -9,8 +9,8 @@ przez prosty projekt -- generowanie animacji Game of Life.
 * [poniedziałek - Biały Kwadrat na Białym Tle](1-poniedzialek.md)
 * [wtorek - Płotno](1-wtorek.md)
 * [środa - Czarny Kwadrat na Białym Tle](1-sroda.md)
-* czwartek
-* piątek
+* [czwartek - Refactoring](1-czwartek.md)
+* [piątek - Pozbywanie się magicznych liczb](1-piatek.md)
 * sobota
 
 ## 2. tydzień adwentu
