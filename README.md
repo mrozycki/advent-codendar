@@ -13,13 +13,13 @@ przez prosty projekt -- generowanie animacji Game of Life.
 * [piątek - Pozbywanie się magicznych liczb](wpisy/1/piatek.md)
 * [sobota - Struktura dla płótna](wpisy/1/sobota.md)
 
-## 2. tydzień adwentu
+## 2. tydzień adwentu - Gra w Życie
 
-* niedziela
-* poniedziałek
-* wtorek
-* środa
-* czwartek
+* [niedziela - Reguły *Gry w Życie*](wpisy/2/niedziela.md)
+* poniedziałek - Struktura planszy
+* wtorek - Nowe pokolenie
+* środa - Wiele pokoleń
+* czwartek - Wczytywanie z pliku
 * piątek
 * sobota
 
