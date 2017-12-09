@@ -5,13 +5,13 @@ przez prosty projekt -- generowanie animacji Game of Life.
 
 ## 1. tydzień adwentu - Czarny Kwadrat na Białym Tle
 
-* [niedziela - obrazy PBM](1-niedziela.md)
-* [poniedziałek - Biały Kwadrat na Białym Tle](1-poniedzialek.md)
-* [wtorek - Płotno](1-wtorek.md)
-* [środa - Czarny Kwadrat na Białym Tle](1-sroda.md)
-* [czwartek - Refactoring](1-czwartek.md)
-* [piątek - Pozbywanie się magicznych liczb](1-piatek.md)
-* [sobota - Struktura dla płótna](1-sobota.md)
+* [niedziela - obrazy PBM](wpisy/1/niedziela.md)
+* [poniedziałek - Biały Kwadrat na Białym Tle](wpisy/1/poniedzialek.md)
+* [wtorek - Płotno](wpisy/1/wtorek.md)
+* [środa - Czarny Kwadrat na Białym Tle](wpisy/1/sroda.md)
+* [czwartek - Refactoring](wpisy/1/czwartek.md)
+* [piątek - Pozbywanie się magicznych liczb](wpisy/1/piatek.md)
+* [sobota - Struktura dla płótna](wpisy/1/sobota.md)
 
 ## 2. tydzień adwentu
 
