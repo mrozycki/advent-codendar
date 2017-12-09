@@ -11,7 +11,7 @@ przez prosty projekt -- generowanie animacji Game of Life.
 * [środa - Czarny Kwadrat na Białym Tle](1-sroda.md)
 * [czwartek - Refactoring](1-czwartek.md)
 * [piątek - Pozbywanie się magicznych liczb](1-piatek.md)
-* sobota
+* [sobota - Struktura dla płótna](1-sobota.md)
 
 ## 2. tydzień adwentu
 

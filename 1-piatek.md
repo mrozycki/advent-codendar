@@ -13,7 +13,7 @@ da się wywnioskować co.
 We wczorajszym wpisie pojawił się taki kawałek kodu:
 
 ```C
-int obraz[10][10];
+int** obraz = create_canvas(10, 10);
 rect(obraz, 0, 0, 10, 10, 0); // wypełnij obraz białym kolorem
 rect(obraz, 2, 2, 6, 6, 1); // narysuj czarny kwadrat
 ```
@@ -23,7 +23,7 @@ obok kodu ciężko byłoby wywnioskować co mogą oznaczać. Dużo lepiej wyglą
 to w takiej formie:
 
 ```C
-int obraz[10][10];
+int** obraz = create_canvas(10, 10);
 rect(obraz, 0, 0, 10, 10, WHITE); // wypełnij obraz białym kolorem
 rect(obraz, 2, 2, 6, 6, BLACK); // narysuj czarny kwadrat
 ```

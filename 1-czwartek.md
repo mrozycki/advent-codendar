@@ -31,7 +31,7 @@ wartości w tabeli `pic` tak, aby w obrazie pojawił się odpowiedni prostokąt.
 Teraz możesz zastąpić czarny kwadrat z poprzedniego programu wywołaniem funkcji:
 
 ```C
-int obraz[10][10];
+int **obraz = ...;
 // (...)
 rect(obraz, 2, 2, 6, 6, 1); // narysuj czarny kwadrat
 ```
@@ -40,7 +40,42 @@ Co najlepsze, początkowe wypełnienie obrazu białym kolorem również można
 zastąpić wywołaniem funkcji `rect`!
 
 ```C
-int obraz[10][10];
+int **obraz = ...;
+rect(obraz, 0, 0, 10, 10, 0); // wypełnij obraz białym kolorem
+rect(obraz, 2, 2, 6, 6, 1); // narysuj czarny kwadrat
+```
+
+### Alokacja tablicy
+
+Niestety, żeby dwuwymiarowe tablice o nienznaym rozmiarze przekazywać do
+funkcji, musimy *zaalokować* miejsce w pamięci na tę tablicę. Kod który
+to robi może wyglądać nieco strasznie:
+
+```C
+int i;
+int **obraz = malloc(10 * sizeof(*obraz));
+for (i = 0; i < 10; i++) {
+  pixels[i] = malloc(10 * sizeof(*pixels[i]));
+}
+```
+
+Ale to też możemy wyciągnąć do funkcji:
+
+```C
+int** create_canvas(int width, int height) {
+  int i;
+  int **canvas = malloc(height * sizeof(*canvas));
+  for (i = 0; i < height; i++) {
+    canvas[i] = malloc(width * sizeof(*canvas[i]));
+  }
+
+  return canvas;
+}
+```
+
+W ten sposób dostajemy:
+```C
+int **obraz = create_canvas(10, 10);
 rect(obraz, 0, 0, 10, 10, 0); // wypełnij obraz białym kolorem
 rect(obraz, 2, 2, 6, 6, 1); // narysuj czarny kwadrat
 ```
