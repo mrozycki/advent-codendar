@@ -16,7 +16,7 @@ przez prosty projekt -- generowanie animacji Game of Life.
 ## 2. tydzień adwentu - Gra w Życie
 
 * [niedziela - Reguły *Gry w Życie*](wpisy/2/niedziela.md)
-* [poniedziałek - Struktura planszy](wpisy/2/poniedziałek.md)
+* [poniedziałek - Struktura planszy](wpisy/2/poniedzialek.md)
 * wtorek - Liczenie sąsiadów
 * środa - Nowe pokolenie
 * czwartek - Wiele pokoleń
