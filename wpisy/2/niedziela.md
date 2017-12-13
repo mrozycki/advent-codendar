@@ -11,6 +11,11 @@ zasad *Gry w Życie* wraz z wieloma ciekawymi przykładami. Zapoznaj się z
 *Opisem reguł gry* i przejrzyj znajdujące się poniżej przykłady struktur,
 w szczególności animacje.
 
+W ciągu kolejnych dni będziemy pisać i testować funkcje, które pomogą ostatecznie
+generować animacje *Gry w życie*. Każda napisana funkcja będzie przydatna
+w kolejnych dniach. Zapisuj swój kod w bezpiecznym miejscu, aby móc wykorzystać
+go później.
+
 **Zadanie** Napisz funkcję `next_state` według następującego opisu:
 
 ```C

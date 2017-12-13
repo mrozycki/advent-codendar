@@ -18,12 +18,12 @@ przez prosty projekt -- generowanie animacji Game of Life.
 * [niedziela - Reguły *Gry w Życie*](wpisy/2/niedziela.md)
 * [poniedziałek - Struktura planszy](wpisy/2/poniedzialek.md)
 * [wtorek - Liczenie sąsiadów](wpisy/2/wtorek.md)
-* środa - Nowe pokolenie
+* [środa - Nowe pokolenie](wpisy/2/sroda.md)
 * czwartek - Wiele pokoleń
-* piątek - Wczytywanie z pliku
-* sobota
+* piątek - Czyszczenie pamięci
+* sobota - Wczytywanie z pliku
 
-## 3. tydzień adwentu
+## 3. tydzień adwentu - Życie w obrazkach
 
 * niedziela
 * poniedziałek
