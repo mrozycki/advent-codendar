@@ -25,7 +25,7 @@ przez prosty projekt -- generowanie animacji Game of Life.
 
 ## 3. tydzień adwentu - Życie w obrazkach
 
-* niedziela - Rysowanie planszy
+* [niedziela - Rysowanie planszy](wpisy/3/niedziela.md)
 * poniedziałek - Skalowanie
 * wtorek - Zapisywanie do pliku
 * środa - Wiele plików
