@@ -21,7 +21,7 @@ przez prosty projekt -- generowanie animacji Game of Life.
 * [środa - Nowe pokolenie](wpisy/2/sroda.md)
 * [czwartek - Wiele pokoleń](wpisy/2/czwartek.md)
 * [piątek - Czyszczenie pamięci](wpisy/2/piatek.md)
-* sobota - Wczytywanie z pliku
+* [sobota - Wczytywanie z pliku](wpisy/2/sobota.md)
 
 ## 3. tydzień adwentu - Życie w obrazkach
 
