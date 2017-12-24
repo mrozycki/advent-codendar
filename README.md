@@ -29,7 +29,7 @@ przez prosty projekt -- generowanie animacji Game of Life.
 * [poniedziałek - Skalowanie](wpisy/3/poniedzialek.md)
 * [wtorek - Zapisywanie do pliku](wpisy/3/wtorek.md)
 * [środa - Wiele plików](wpisy/3/sroda.md)
-* czwartek - Generowanie animacji
+* [czwartek - Generowanie animacji](wpisy/3/czwartek.md)
 * piątek
 * sobota
 
