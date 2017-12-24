@@ -35,4 +35,4 @@ przez prosty projekt -- generowanie animacji Game of Life.
 
 ## 4. tydzień adwentu
 
-* niedziela
+* [niedziela - Wigilia Bożego Narodzenia](wpisy/4/niedziela.md)
