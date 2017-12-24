@@ -31,7 +31,7 @@ przez prosty projekt -- generowanie animacji Game of Life.
 * [środa - Wiele plików](wpisy/3/sroda.md)
 * [czwartek - Generowanie animacji](wpisy/3/czwartek.md)
 * [piątek - Podsumowanie](wpisy/3/piatek.md)
-* sobota
+* [sobota - Co dalej?](wpisy/3/sobota.md)
 
 ## 4. tydzień adwentu
 
