@@ -1,7 +1,6 @@
 # Kodendarz Adwentowy
 
 3. tydzień Adwentu: Życie w Obrazkach
-
 ---
 
 ## Czwartek: Generowanie animacji
